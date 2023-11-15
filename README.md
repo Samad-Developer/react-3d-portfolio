@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Samad-Developer/React-3d-Portfolio.git
+   git clone https://github.com/Samad-Developer/react-3d-portfolio.git
 
 2. Install dependencies:
 
